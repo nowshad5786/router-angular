@@ -1,0 +1,7 @@
+.ros img
+{
+    border: 1px solid lightslategray;
+    width: 350px;
+    height: 200px;
+    border-radius: 5px;
+}
